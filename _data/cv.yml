@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Megan Rhian Briers
     - name: Date of Birth
-      value: 14th March 1879
+      value: 14th August 2000
     - name: Languages
-      value: English, German
+      value: English, German (B1)
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Max Planck Institute for the History of Science, Technische Universität Berlin
+      year: 2027 
       description:
         - Description 1.
         - Description 2.

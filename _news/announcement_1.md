@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-02-05 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Tickets are released for my public talk in March, see <a href="https://www.brewing-minds.com/event/women-who-chased-the-sun-21/register">Brewing Minds</a> for more.
