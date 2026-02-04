@@ -27,7 +27,6 @@
       "area": "History of Science",
       "studyType": "PhD",
       "startDate": "2023-10-01",
-      "endDate": "2027-02-01",
       "score": ""
     },
     {
@@ -36,8 +35,8 @@
       "url": "https://www.hps.cam.ac.uk/",
       "area": "History and Philosophy of Science",
       "studyType": "MPhil",
-      "startDate": "2023-10-01",
-      "endDate": "2024-06-01",
+      "startDate": "2022-10-01",
+      "endDate": "2023-06-01",
       "score": "Distinction"
     },
     {
@@ -117,7 +116,7 @@
       "url": "https://www.bshm.ac.uk",
       "startDate": "2024-04-01",
       "summary": "Oversee the web infrastructure for the BSHM, including the website, emails and file storage. Editor of the BSHM blog and occasional graphic designer.",
-      "highlights": ["Managed the creation of a new website.", "Relaunched the blog to keep society members updated of our activites"]
+      "highlights": ["Managed the creation of a new website", "Relaunched the blog to keep society members updated of our activites"]
     },
     {
       "organization": "Max Planck Institute for the History of Science",
