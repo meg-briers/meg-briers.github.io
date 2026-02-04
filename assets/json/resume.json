@@ -28,7 +28,7 @@
       "studyType": "PhD",
       "startDate": "2023-10-01",
       "endDate": "2027-02-01",
-      "score": "",
+      "score": ""
     },
     {
       "institution": "University of Cambridge",
@@ -69,7 +69,7 @@
   ],
   "publications": [
     {
-      "name": "Simon Naylor, The Observatory Experiment: Meteorology in Britain and Its Empire Cambridge: Cambridge University Press, 2024. Pp. 275. ISBN 978-1-009-20723-2. £85.00 (hardback)",
+      "name": "Historical Notes: Photographing Coronal Streamers",
       "publisher": "Mathematics Today",
       "releaseDate": "2025-12-01",
       "summary": "Article for members magazine of the Institute for Mathematics and Its Applications. Explores the photographic techniques employed by Annie Maunder to capture the coronal streamers in the 1898 eclipse."
@@ -84,14 +84,14 @@
     {
       "name": "Towards a Global History of the 1860 Total Solar Eclipse",
       "publisher": "HoST – Journal of History of Science and Technology",
-      "releaseDate": "1905-03-18",
+      "releaseDate": "2025-06-01",
       "url": "https://doi.org/10.2478/host-2025-0002",
       "summary": "Collaborative work with Deborah Kent, Jesse Garrison, Daniel Belteki, Ileana Chinnici and Frédéric Soulu. Collective attempt to study the 1860 eclipse expedition from the perspectives of various expeditions."
     },
     {
       "name": "The 'How' of the History of Science. A book review of Debating Contemporary Approaches to the History of Science",
       "publisher": "Endeavour",
-      "releaseDate": "2025-06-01",
+      "releaseDate": "2024",
       "url": "doi.org/10.1016/j.endeavour.2024.100936.",
       "summary": "Book Review."
     },
@@ -110,7 +110,7 @@
       "summary": "Collaborative work with Deborah Kent and Mixie Billina. Funded by an RAS summer studentship."
     }
   ],
-  "academic service": [
+  "volunteer": [
     {
       "organization": "British Society for the History of Mathematics",
       "position": "Web Administrator",
