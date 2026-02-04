@@ -398,11 +398,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-tickets-are-released-for-my-public-talk-in-march-see-brewing-minds-for-more",
-          title: 'Tickets are released for my public talk in March, see Brewing Minds for...',
-          description: "",
-          section: "News",},{id: "news-2026-as-the-year-of-new-websites-finally-got-around-to-shifting-my-personal-website-from-notion-to-jekyll-after-admiring-the-website-of-a-fair-few-academics-hoping-to-keep-the-world-more-updated-with-what-i-m-doing-and-where-i-am-the-latter-of-which-being-quite-hard-to-keep-up-with-have-to-spend-more-time-in-berlin-this-year-also-launched-recently-is-the-bshm-website-graciously-designed-by-alexander-stoeger-with-the-remake-of-the-website-we-ve-relaunched-the-blog-be-sure-to-check-out-the-recent-posts",
+            },},{id: "news-2026-as-the-year-of-new-websites-finally-got-around-to-shifting-my-personal-website-from-notion-to-jekyll-after-admiring-the-website-of-a-fair-few-academics-hoping-to-keep-the-world-more-updated-with-what-i-m-doing-and-where-i-am-the-latter-of-which-being-quite-hard-to-keep-up-with-have-to-spend-more-time-in-berlin-this-year-also-launched-recently-is-the-bshm-website-graciously-designed-by-alexander-stoeger-with-the-remake-of-the-website-we-ve-relaunched-the-blog-be-sure-to-check-out-the-recent-posts",
           title: '2026 as the year of new websites Finally got around to shifting my...',
+          description: "",
+          section: "News",},{id: "news-tickets-are-released-for-my-public-talk-in-berlin-in-march-see-brewing-minds-for-more",
+          title: 'Tickets are released for my public talk in Berlin in March, see Brewing...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
