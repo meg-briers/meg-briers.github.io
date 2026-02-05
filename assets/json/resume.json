@@ -26,7 +26,8 @@
       "url": "https://imprs.mpiwg-berlin.mpg.de/node/63",
       "area": "History of Science",
       "studyType": "PhD",
-      "startDate": "2023-10-01"
+      "startDate": "2023-10-01",
+      "score": ""
     },
     {
       "institution": "University of Cambridge",
@@ -108,7 +109,7 @@
       "summary": "Collaborative work with Deborah Kent and Mixie Billina. Funded by an RAS summer studentship."
     }
   ],
-  "academic service": [
+  "volunteer": [
     {
       "organization": "British Society for the History of Mathematics",
       "position": "Web Administrator",
