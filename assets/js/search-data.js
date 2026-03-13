@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Last updated February 2026.",
+          description: "Last updated March 2026.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -397,13 +397,13 @@ ninja.data = [{
           section: "News",},{id: "news-tickets-are-released-for-my-public-talk-in-berlin-in-march-see-brewing-minds-for-more",
           title: 'Tickets are released for my public talk in Berlin in March, see Brewing...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-women-in-nineteenth-century-british-astronomy-expeditions",
+          title: 'Women in Nineteenth-century British Astronomy Expeditions',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
+            },},{id: "projects-instrument-makers-in-the-industrial-revolution",
+          title: 'Instrument Makers in the Industrial Revolution',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
