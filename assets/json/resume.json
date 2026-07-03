@@ -4,7 +4,7 @@
     "label": "Historian of Science",
     "image": "",
     "email": "mrbriers@mpiwg-berlin.mpg.de",
-    "summary": "PhD candidate in History of Science, focusing on women in nineteenth-century astronomy.",
+    "summary": "PhD candidate in History of Science, studying women and gender in nineteenth-century British astronomy.",
     "location": {
       "address": "IMPRS-MPIWG",
       "postalCode": "14195",
@@ -21,7 +21,7 @@
   },
   "education": [
     {
-      "institution": "Max Planck Institute for the History of Science, Technsche Universität Berlin",
+      "institution": "Max Planck Institute for the History of Science, Technische Universität Berlin",
       "location": "Berlin, Germany",
       "url": "https://imprs.mpiwg-berlin.mpg.de/node/63",
       "area": "History of Science",
@@ -142,7 +142,7 @@
     },
     {
       "language": "German",
-      "fluency": "B1",
+      "fluency": "B2",
       "icon": ""
     }
   ],
