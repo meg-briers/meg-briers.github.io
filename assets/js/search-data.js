@@ -400,7 +400,12 @@ ninja.data = [{
           section: "News",},{id: "news-lena-kasten-and-i-wrote-a-thing-about-the-photography-workshop-we-organised-with-jonathan-haid-see-the-mpiwg-site-for-more",
           title: 'Lena Kasten and I wrote a thing about the photography workshop we organised...',
           description: "",
-          section: "News",},{id: "projects-women-in-nineteenth-century-british-astronomy-expeditions",
+          section: "News",},{id: "news-eclipse-expedition-panel-at-hss-eshs",
+          title: 'Eclipse expedition panel at HSS/ESHS',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/annoucement_4/";
+            },},{id: "projects-women-in-nineteenth-century-british-astronomy-expeditions",
           title: 'Women in Nineteenth-century British Astronomy Expeditions',
           description: "with background image",
           section: "Projects",handler: () => {
